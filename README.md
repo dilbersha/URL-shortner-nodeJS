@@ -1,2 +1,2 @@
-# Expense-tracker
-To create an expense tracker friendly for students in my college
+# URL-Shortner
+To create an URL shortner as my first node app
